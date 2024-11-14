@@ -4,8 +4,8 @@ This repository contains exercises for practicing Java Streams. These exercises 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Exercise 1: Word List Operations](#exercise-1-word-list-operations)
-- [Exercise 2: Employee List Operations](#exercise-2-employee-list-operations)
+- [Word List Operations](#word-list-operations)
+- [Employee List Operations](#employee-list-operations)
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Conclusion](#conclusion)
@@ -18,7 +18,7 @@ Java Streams provide a powerful and flexible way to work with collections of dat
 
 ---
 
-### Exercise 1: Word List Operations
+### Word List Operations
 
 In this exercise, you will work with a list of words to perform the following operations:
 
@@ -32,7 +32,7 @@ In this exercise, you will work with a list of words to perform the following op
 
 ---
 
-### Exercise 2: Employee List Operations
+### Employee List Operations
 
 In this exercise, you will work with a list of employees. Each employee has a `name` (String), a `department` (String), and a `salary` (double). Perform the following operations:
 
