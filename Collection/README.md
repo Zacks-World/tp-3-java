@@ -3,9 +3,9 @@
 This repository contains exercises for practicing Java Collections, including Lists, Maps, and Sets. These exercises are designed to help you understand the fundamentals of handling data structures in Java.
 
 ## Table of Contents
-- [Lists](#exercise-1-lists)
-- [Maps](#exercise-2-maps)
-- [Sets](#exercise-3-sets)
+- [Lists](#lists)
+- [Maps](#maps)
+- [Sets](#sets)
 - [Requirements](#requirements)
 - [Setup](#setup)
 
