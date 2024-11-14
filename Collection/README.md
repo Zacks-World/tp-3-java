@@ -4,9 +4,9 @@ This repository contains exercises for practicing Java Collections, including Li
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Exercise 1: Lists](#exercise-1-lists)
-- [Exercise 2: Maps](#exercise-2-maps)
-- [Exercise 3: Sets](#exercise-3-sets)
+- [Lists](#lists)
+- [Maps](#maps)
+- [Sets](#sets)
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Conclusion](#conclusion)
@@ -19,7 +19,7 @@ Java Collections provide a powerful framework for managing groups of objects. Th
 
 The exercises cover essential operations like adding, removing, searching, and modifying data within collections, while also introducing more advanced topics like data filtering, sorting, and performing union and intersection operations. These skills are critical for efficient data handling in Java applications.
 
-### Exercise 1: Lists
+### Lists
 
 This exercise involves managing a list of products. You will:
 
@@ -35,7 +35,7 @@ This exercise involves managing a list of products. You will:
    - **Modify a Product by Index**: Replace a product at a specified index with a new `Product` object.
    - **Search for a Product by Name**: Prompt the user to input a product name, then search through the list to find and display products matching the name.
 
-### Exercise 2: Maps
+### Maps
 
 In this exercise, you will manage a map of student grades using a `HashMap`. Here’s a breakdown of each task:
 
@@ -56,7 +56,7 @@ In this exercise, you will manage a map of student grades using a `HashMap`. Her
 
 4. **Display the Updated Map**: After each operation, print the map to show the changes.
 
-### Exercise 3: Sets
+### Sets
 
 This exercise involves working with sets of student names to find intersections and unions.
 
